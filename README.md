@@ -1,1 +1,2 @@
 # AtliQ-Hardware-Sales-Analysis
+In this project, conducted a high-level analysis of a dataset using SQL to gain deeper insights. SQL dataset is connected with Tableau and performed ETL (Extract, Transform, Load) and data cleaning on the imported data. Next, created essential measures and utilized them to develop compelling visuals in Tableau, culminating in an interactive dashboard for stakeholders.
